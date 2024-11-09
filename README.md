@@ -1,4 +1,4 @@
-# Next Portfolio
+# NEXT Portfolio
 
 ### Installation
 
