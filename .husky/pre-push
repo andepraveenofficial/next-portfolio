@@ -1,1 +1,5 @@
 echo 'Husky is working!'
+npm run format
+npm run lint
+npm run lint:fix
+git status
